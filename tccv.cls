@@ -112,7 +112,7 @@
     \colorbox[HTML]{F5DD9D}{%
     \begin{tabularx}{\boxwidth}{c|X}
     \Writinghand & {#2}\smallskip\\
-    \Gemini      & {#3}\smallskip\\
+    \Male        & {#3}\smallskip\\
     \Telefon     & {#4}\smallskip\\
     \Letter      & \href{mailto:#5}{#roopak.iitr@gmail.com}
     \ifstrempty{#1}{}{\smallskip\\ \Lightning & \href{http://#1}{#1}}
